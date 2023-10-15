@@ -1,0 +1,74 @@
+{
+	"folders": [
+		{
+			"path": "../../nodemcu test1"
+		},
+		{
+			"name": "internetclock",
+			"path": "../../internetclock"
+		},
+		{
+			"name": "comm",
+			"path": "../../comm"
+		},
+		{
+			"name": "lidarstmarduino",
+			"path": "../../lidarstmarduino"
+		},
+		{
+			"name": "f407",
+			"path": "../../f407"
+		},
+		{
+			"name": "f446serial",
+			"path": "../../f446serial"
+		},
+		{
+			"name": "arduino",
+			"path": "../../arduino"
+		},
+		{
+			"name": "wificom",
+			"path": "../../wificom"
+		},
+		{
+			"name": "wificomdata",
+			"path": "../../wificomdata"
+		},
+		{
+			"name": "deneyapv1",
+			"path": "../../deneyapv1"
+		},
+		{
+			"name": "deneyeapminiv1",
+			"path": ".."
+		},
+		{
+			"name": "230831-120015-arduino-wifiscan",
+			"path": "../../230831-120015-arduino-wifiscan"
+		},
+		{
+			"name": "230831-120147-espidf-arduino-wifiscan",
+			"path": "../../230831-120147-espidf-arduino-wifiscan"
+		},
+		{
+			"name": "esp_lora",
+			"path": "../../esp_lora"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"chrono": "cpp",
+			"string_view": "cpp",
+			"regex": "cpp",
+			"*.tcc": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"system_error": "cpp",
+			"*.bak": "cpp"
+		}
+	}
+}
